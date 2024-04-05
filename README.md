@@ -14,7 +14,7 @@ The program checks the speed of car and outputs consequences depending on the nu
 Program calculates the net salary of an individual when given the basic salary and the benefits with live(current tax rates).
 
 ## LIVE SITE
-https://github.com/Dudley-hue/first-code-challenge.git
+https://github.com/Dudley-hue/dudley-code-challenge1.git
 ## TECHNOLOGIES
 1. HTML
 2. JavaScript
