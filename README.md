@@ -1,41 +1,30 @@
-# code-challenge-1-js
-#### Date,24/03/2023
-###By Dudley Kimani
+# Week 1 Code Challenge
 
+## AUTHOR
+[ Dudley Kimani](https://github.com/dudley-hue)
 
-## Description
+## DESCRIPTION
+### Student Grade Generator
+This program assigns grades to students depending on the marks that have been input by the user when prompted.
 
-This repository contains solutions to three JavaScript code challenges tackled over the weekend.
+### Speed Detector
+The program checks the speed of car and outputs consequences depending on the number of demerit points assigned when the speed is above 70km/h.And if the user has more than 12 demerit points assigned the license is suspended .
 
-### Challenge 1: Student Grade Generator
-Prompt the user to input student marks between 0 and 100, then output the corresponding grade: A (>79), B (60-79), C (49-59), D (40-49), E (<40).
+### Net Salary Calculator
+Program calculates the net salary of an individual when given the basic salary and the benefits with live(current tax rates).
 
-### Challenge 2: Speed Detector
-Write a program to calculate demerit points for speeding drivers. If speed is less than 70 km/h, print "Ok". Otherwise, for every 5 km/h above the limit, give one demerit point. If more than 12 points, print "License suspended".
+## LIVE SITE
+https://github.com/Dudley-hue/first-code-challenge.git
+## TECHNOLOGIES
+1. HTML
+2. JavaScript
 
-### Challenge 3: Net Salary Calculator
-Calculate an individual’s net salary based on inputs of basic salary and benefits. Calculate PAYE (Tax), NHIF deductions, NSSF deductions, gross salary, and net salary.
+## CONTACT INFORMATION
+Feel free to reach out to me through:
+ - [Github](https://github.com/dudley-hue)
+ - [Email](https://mail.google.com/mail/dudleykimani331@gmail.com)
+ - [Instagram](https://instagram.com/_h.e.a.db.a.d)
 
-Refer to [aren.co.ke](https://www.aren.co.ke/payroll/taxrates.htm) for tax rates and [KRA](https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye) for PAYE information.
-##Use of readline module
-I used index.html since i cannot use readline therefore i  run my output in the browser(console).
-
-## Installation
-
-Clone the repository:
-
-
-git clone https://github.com/Dudley-hue/first-code-challenge.git
-##Usage
-To run the solutions:
-
-Navigate to the project directory.
-1.Open each JavaScript file (grader.js, salary.js, Speed.js) in a code editor.
-##Technologies Used
-JavaScript
-
-##Support and Contact
-For support or inquiries, contact Dudley Kimani at github.com/Dudley-hue.
-
-###License
-This project is licensed under the DY License copyright(C)2024.
+## LICENSE
+MIT license
+Copyright (c) 2024.

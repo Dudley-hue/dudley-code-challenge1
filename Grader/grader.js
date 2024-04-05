@@ -26,7 +26,7 @@ if (!isNaN(mark) && mark >= 0 && mark <= 100) {
   }
 
   // Output the result
-  console.log(`The student's grade is: ${grade}`);
+  alert(`The student's grade is: ${grade}`);
 } else {
   console.log("Invalid input. Mark must be between 0 and 100.");
 }
